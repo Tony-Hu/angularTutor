@@ -6,3 +6,8 @@
   width: 300px;
   border-color: cornflowerblue;
 }
+
+.backg {
+  background-image: url('../../assets/WechatIMG13252.jpeg');
+  background-color: #cccccc;
+}

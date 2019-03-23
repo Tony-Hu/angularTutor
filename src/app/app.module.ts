@@ -15,6 +15,6 @@ import {ServerComponent} from './server/server.component';
     FormsModule
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [ServerComponent]
 })
 export class AppModule { }
